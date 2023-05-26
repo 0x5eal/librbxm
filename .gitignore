@@ -1,0 +1,9 @@
+# Dependencies
+npm/
+
+# MacOS Filesystem
+/**/.DS_STORE
+
+# Editor Configs
+.idea
+.vscode
