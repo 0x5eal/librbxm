@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/v124/binary-parser@2.2.1": "59d8b6b77996d3caeb8ec15adc002a73af8a56e62d89f502afcce92315ca4e9a",
+    "https://esm.sh/v124/binary-parser@2.2.1/deno/binary-parser.mjs": "fbbfcc3a5df73dc443cdab72bb579cf1ed8a7bd29e09245a4557eacbc54456f9",
+    "https://esm.sh/v124/binary-parser@2.2.1/dist/binary_parser.d.ts": "f6411b896d73f2a3b2b3886b0ff69a4ff545108bc557b24831a57111af2cc0a1",
+    "https://esm.sh/v124/node.ns.d.ts": "0fb081f0cd2150931bd54baa04f31466abd9ca701fd9060d07931402cf8367ba"
+  }
+}
